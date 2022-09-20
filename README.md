@@ -25,7 +25,7 @@
 **Utilidades**
 
   ![Axios](https://img.shields.io/badge/-Axios-333333?style=flat&logo=axios)
-  ![ExpoCLI](https://img.shields.io/badge/-ExpoCLI-333333?style=flat&logo=expocli)
+  ![ExpoCLI](https://img.shields.io/badge/-ExpoCLI-333333?style=flat&logo=expo)
 
 **DevOps**
 
@@ -50,6 +50,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Pedro Lucas](https://img.shields.io/badge/-Pedro Lucas Passos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-lucas-passos-902384234/)](https://www.linkedin.com/in/pedro-lucas-passos-902384234/)
-[![Gmail Badge](https://img.shields.io/badge/-Lucas Passos-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucaspassos2005@gmail.com)](mailto:lucaspassos2005@gmail.com)
+[![Linkedin: Pedro Lucas](https://img.shields.io/badge/-Pedro%20Lucas%20Passos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-lucas-passos-902384234/)](https://www.linkedin.com/in/pedro-lucas-passos-902384234/)
+[![Gmail Badge](https://img.shields.io/badge/-Lucas%20Passos-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucaspassos2005@gmail.com)](mailto:lucaspassos2005@gmail.com)
 [![GitHub Lucas Passos]( https://img.shields.io/github/followers/lpassos40?label=follow&style=social)](https://github.com/lpassos40)
