@@ -55,7 +55,7 @@
 [![GitHub Lucas Passos]( https://img.shields.io/github/followers/lpassos40?label=follow&style=social)](https://github.com/lpassos40)
 
 <br/>
-<h3> :coffee: Se você gostou de algum projeto meu e deseja me ajudar, por favor, considere me pagar um cafézinho<h3/>
+<h3> :coffee: &nbsp;Se você gostou de algum projeto meu e deseja me ajudar, por favor, considere me pagar um cafézinho<h3/>
 
 <a href="https://www.buymeacoffee.com/lucaspassoE" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120" ></a>
 
