@@ -51,11 +51,11 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Pedro Lucas](https://img.shields.io/badge/-Pedro%20Lucas%20Passos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-lucas-passos-902384234/)](https://www.linkedin.com/in/pedro-lucas-passos-902384234/)
-[![Gmail Badge](https://img.shields.io/badge/-Lucas%20Passos-006bed?style=flat-square&logo=Gmail&logoColor=red&link=mailto:lucaspassos2005@gmail.com)](mailto:lucaspassos2005@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Lucas%20Passos-006bed?style=flat-square&color=red&logo=Gmail&logoColor=white&link=mailto:lucaspassos2005@gmail.com)](mailto:lucaspassos2005@gmail.com)
 [![GitHub Lucas Passos]( https://img.shields.io/github/followers/lpassos40?label=follow&style=social)](https://github.com/lpassos40)
 
 <br/>
 <h3> :coffee: Se você gostou de algum projeto meu e deseja me ajudar, por favor, considere me pagar um cafézinho<h3/>
 
-<a href="https://www.buymeacoffee.com/lucaspassoE" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="70" ></a>
+<a href="https://www.buymeacoffee.com/lucaspassoE" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120" ></a>
 
