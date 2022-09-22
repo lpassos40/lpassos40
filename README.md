@@ -48,7 +48,8 @@
 </a>
 
 <br/>
-<a href="https://github.com/lpassos40">![Snake](https://github.com/lpassos40/lpassos40/blob/output/github-contribution-grid-snake.gif)</a>
+<a href="https://github.com/lpassos40">
+ [![snake game](https://github.com/lpassos40/lpassos40/blob/output/github-contribution-grid-snake.gif)</a>
 <br/>
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
