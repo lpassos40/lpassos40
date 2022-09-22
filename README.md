@@ -48,7 +48,7 @@
 </a>
 
 <br/>
-![snake game](https://github.com/lpassos40/lpassos40/blob/output/github-contribution-grid-snake.gif)
+![snake game](https://github.com/lpassos40/lpassos40/blob/output/github-contribution-grid-snake.svg)
 <br/>
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
