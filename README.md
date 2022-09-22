@@ -43,7 +43,7 @@
 <br/>
 
 <a href="https://github.com/lpassos40">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lpassos40&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lpassos40&theme=dracula&show_icons=true" /><br>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpassos40&layout=compact&langs_count=7&theme=dracula"/>
 </a>
 
@@ -56,7 +56,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Lucas%20Passos-006bed?style=flat-square&color=red&logo=Gmail&logoColor=white&link=mailto:lucaspassos2005@gmail.com)](mailto:lucaspassos2005@gmail.com)
 [![GitHub Lucas Passos]( https://img.shields.io/github/followers/lpassos40?label=follow&style=social)](https://github.com/lpassos40)
 
-<br/>
+
 <h3> :coffee: &nbsp;Se você gostou de algum projeto meu e deseja me ajudar, por favor, considere me pagar um cafézinho<h3/>
 
 <a href="https://www.buymeacoffee.com/lucaspassoE" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120" ></a>
