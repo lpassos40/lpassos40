@@ -44,11 +44,11 @@
 
 <a href="https://github.com/lpassos40">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lpassos40&theme=dracula&show_icons=true" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leal-Matheus&layout=compact&langs_count=7&theme=radical"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpassos40s&layout=compact&langs_count=7&theme=dracula"/>
 </a>
 
 <br/>
-![Snake animation](https://github.com/Leal-Matheus/Leal-Matheus/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lpassos40/lpassos40/blob/output/github-contribution-grid-snake.svg)
 <br>
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
