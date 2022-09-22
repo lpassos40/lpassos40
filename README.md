@@ -44,10 +44,12 @@
 
 <a href="https://github.com/lpassos40">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lpassos40&theme=dracula&show_icons=true" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leal-Matheus&layout=compact&langs_count=7&theme=radical"/>
 </a>
 
 <br/>
-
+![Snake animation](https://github.com/Leal-Matheus/Leal-Matheus/blob/output/github-contribution-grid-snake.svg)
+<br>
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Pedro Lucas](https://img.shields.io/badge/-Pedro%20Lucas%20Passos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-lucas-passos-902384234/)](https://www.linkedin.com/in/pedro-lucas-passos-902384234/)
