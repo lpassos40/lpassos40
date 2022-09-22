@@ -49,7 +49,7 @@
 
 <br/>
 <a href="https://github.com/lpassos40">![Snake](https://github.com/lpassos40/lpassos40/blob/output/github-contribution-grid-snake.gif)</a>
-<br>
+<br/>
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Pedro Lucas](https://img.shields.io/badge/-Pedro%20Lucas%20Passos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-lucas-passos-902384234/)](https://www.linkedin.com/in/pedro-lucas-passos-902384234/)
