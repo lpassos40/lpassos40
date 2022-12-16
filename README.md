@@ -4,9 +4,9 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Desenvolvimento de Sistemas** na <a href="link da sua faculdade">Etec Paulistano</a>.
-<<!--- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>-->
-- 🌱 &nbsp; Aprendendo mais sobre **React Native | ReactJS | PHP**.
+- 🎓 &nbsp; Formado em **Desenvolvimento de Sistemas** pela <a href="link da sua faculdade">Etec Paulistano</a>.
+- 💼 &nbsp; Em busca de empregos como **Desenvolvedor Front-End**.
+- 🌱 &nbsp; Aprendendo mais sobre **React Native | ReactJS | NodeJS**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
