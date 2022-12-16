@@ -20,6 +20,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![Node](https://img.shields.io/badge/-PHP-333333?style=flat&logo=nodejs)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 **Utilidades**
