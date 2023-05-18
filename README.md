@@ -46,7 +46,7 @@
 
 [![Lucas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lpassos40&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Lucas's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lpassos40&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
+![Lucas'sTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpassos40&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
 ![Snake animation](https://github.com/lpassos40/lpassos40/blob/output/github-contribution-grid-snake.svg)
