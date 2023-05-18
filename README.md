@@ -45,7 +45,8 @@
 <br/>
 
 <a href="https://github.com/lpassos40">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lpassos40&theme=dracula&show_icons=true" />
+  [![Lucas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lpassos40&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Lucas's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lpassos40&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpassos40&layout=compact&langs_count=7&theme=dracula"/>
 </a>
 
