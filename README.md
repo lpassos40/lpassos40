@@ -5,8 +5,8 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em **Desenvolvimento de Sistemas** pela <a href="link da sua faculdade">Etec Paulistano</a>.
-- 💼 &nbsp; Em busca de empregos como **Desenvolvedor Front-End Junior**.
-- 🌱 &nbsp; Aprendendo mais sobre **Angular | React Native | ReactJS | NodeJS**.
+- 💼 &nbsp; Trabalhando como dev Python na **Nexu Consultoria**.
+- 🌱 &nbsp; Aprendendo mais sobre **Python | PHP | AWS | SQL**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
