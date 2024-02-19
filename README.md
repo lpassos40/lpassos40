@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em **Desenvolvimento de Sistemas** pela <a href="link da sua faculdade">Etec Paulistano</a>.
 - 💼 &nbsp; Trabalhando como dev Python na **Nexu Consultoria**.
-- 🌱 &nbsp; Aprendendo mais sobre **Python | PHP | AWS | SQL**.
+- 🌱 &nbsp; Aprendendo mais sobre **ReactJS | Python** na **Rocketseat**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
